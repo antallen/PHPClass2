@@ -4,7 +4,7 @@
 #### 課程教材使用方式
 + 申請 Github 帳號
 + 課堂下載檔案
-#### 專案製
+#### 專案製作
 + 專案構思與製作
 + 程式碼放置於 GitHub 站台
 #### 證照考試
@@ -210,6 +210,7 @@
 + Blade 語法
 + Blade 樣板實作
 #### 參考文獻
++ [Bootstrap for laravel](https://www.positronx.io/how-to-properly-install-and-use-bootstrap-in-laravel/)
 
 ### 第十二章 Laravel 與資料庫的結合 I [內容](ch12/README.md)
 #### 基本資料庫連線與操作
