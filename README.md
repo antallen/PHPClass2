@@ -301,6 +301,18 @@
 #### 瀏覽器測試
 #### 參考文獻
 
+### 第十九章 使用 NoSQL [內容](ch19/README.md)
+#### Redis
+#### MongoDB
+#### RebbitMQ
+#### Websocket
+#### 參考文獻
+
+### 第二十章 Web API 開發 [內容](ch20/README.md)
+#### RESTful Web API 開發
+#### Client Web API 開發
+#### 參考文獻
+
 ### Append A. 正式環境佈署篇 [內容](appa/README.md)
 #### 正式環境建置
 + 安裝與使用虚擬機軟體
