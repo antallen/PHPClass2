@@ -43,10 +43,9 @@
 #### 參考文獻
 
 ### 第三章 MySQL 資料庫操作與 SQL 基本語法 [內容](ch3/README.md)
-#### 安裝 MySQL
-+ Linux 平台安裝 MySQL Server
-+ Linux 平台安裝 phpMyAdmin 管理程式
-+ Windows 平台安裝 MySQL Workbench
+#### 使用 Docker 安裝 MySQL
++ 使用 Docker 指令安裝 MySQL Server
++ 安裝 MySQL Workbench
 #### 資料收集與整理
 + 資料收集與整理
 + 資料表正規化
