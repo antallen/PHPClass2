@@ -42,7 +42,7 @@
 #### Docker 維護工作
 #### 參考文獻
 
-### 第三章 MySQL 操作與 SQL 語法 [內容](ch3/README.md)
+### 第三章 MySQL 資料庫操作與 SQL 基本語法 [內容](ch3/README.md)
 #### 安裝 MySQL
 + Linux 平台安裝 MySQL Server
 + Linux 平台安裝 phpMyAdmin 管理程式
@@ -58,7 +58,7 @@
 + 操作資料庫系統
 #### 參考文獻
 
-### 第四章 Git 版控與 GitHub 的應用 [內容](ch4/README.md)
+### 第四章 Git 版控與 GitHub 操作 [內容](ch4/README.md)
 #### 版控的觀念與使用
 + 關於版本控制
 + 本地端版本控制
