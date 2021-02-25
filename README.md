@@ -21,7 +21,9 @@
 #### 開發環境建置
 + 安裝開發工具 VSCode 
   + 官網: https://code.visualstudio.com/docs/?dv=win
-  + VSCode 基本操作與使用
+  + VSCode 基本設定
+    + [CentOS 8 版本](https://php.onlinedoc.tw/2021/02/php_22.html)
+    + Windows 10 版本
 + 安裝 Docker 容器
   + 官網: https://www.docker.com/
   + Docker 安裝流程
