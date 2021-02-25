@@ -24,11 +24,15 @@
   + VSCode 基本設定
     + [CentOS 8 版本](https://php.onlinedoc.tw/2021/02/php_22.html)
     + Windows 10 版本
-+ 安裝 Docker 容器
++ 安裝 Docker 容器(Only For Windows 10)
   + 官網: https://www.docker.com/
   + Docker 安裝流程
++ 安裝 Podman 容器(Only For CentOS 8 Linux)
+  + Podman 安裝流程
 + 安裝 Git 工具
   + 官網: https://git-scm.com/
+  + CentOS 8 安裝 git
+  + Windows 10 安裝 git
 #### 參考文獻
 
 ### 第二章 Docker 基本操作 [內容](ch2/README.md)
